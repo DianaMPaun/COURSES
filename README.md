@@ -8,7 +8,7 @@ A curated collection of courses and learning materials that I've found useful. T
 1. **30-Days-Of-Python** [30-Days-Of-Python](https://github.com/DianaMPaun/30-Days-Of-Python)
    
 
-2. **Hello-git**[Hello-git]([link-to-course-2](https://github.com/DianaMPaun/hello-git))
+2. **Hello-git** [Hello-git](https://github.com/DianaMPaun/hello-git)
 
 
 
