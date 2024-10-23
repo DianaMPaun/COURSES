@@ -5,10 +5,10 @@ A curated collection of courses and learning materials that I've found useful. T
 
 ## 📚 Courses Included
 
-1. **[Course 1 Name](link-to-course-1)**  
+1. **[]()**  
    
 
-2. **[Course 2 Name](link-to-course-2)**  
+2. **[Hello-git]([link-to-course-2](https://github.com/DianaMPaun/hello-git))**  
 
 
 
