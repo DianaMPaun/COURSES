@@ -11,7 +11,7 @@ A curated collection of courses and learning materials that I've found useful. T
 2. **Hello-git** [Hello-git](https://github.com/DianaMPaun/hello-git)
 
 
-3. **Hello-sql** [Hello-sql]()
+3. **Hello-sql** [Hello-sql](https://github.com/DianaMPaun/hello-sql)
 
 
 
