@@ -7,11 +7,13 @@ A curated collection of courses and learning materials that I've found useful. T
 
 1. **30-Days-Of-Python** [30-Days-Of-Python](https://github.com/DianaMPaun/30-Days-Of-Python)
    
-
 2. **Hello-git** [Hello-git](https://github.com/DianaMPaun/hello-git)
 
+3. **Git** [Curso de GIT y GITHUB DESDE CERO - Midulive](http://midu.link/git)
 
-3. **Hello-sql** [Hello-sql](https://github.com/DianaMPaun/hello-sql)
+4. **Hello-sql** [Hello-sql](https://github.com/DianaMPaun/hello-sql)
+
+5. **SQL** [SQL desde cero - Midulive](http://midu.link/sql) 
 
 
 
