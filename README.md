@@ -13,7 +13,9 @@ A curated collection of courses and learning materials that I've found useful. T
 
 4. **Hello-sql** [Hello-sql](https://github.com/DianaMPaun/hello-sql)
 
-5. **SQL** [SQL desde cero - Midulive](http://midu.link/sql) 
+5. **SQL** [SQL desde cero - Midulive](http://midu.link/sql)
+
+6. **Hello-JavaScript** [Hello-JavaScript](https://github.com/DianaMPaun/hello-javascript) 
 
 
 
@@ -31,6 +33,8 @@ The purpose of this repository is to keep track of courses that I have explored 
  
 - **Python Programming**  
 - **Git and GitHub**
+- **SQL**
+- **JavaScript**
 
 
 ## 💡 Why This Collection?
